@@ -1,0 +1,7 @@
+Total Orders
+Cancelled Orders
+Cash Transactions
+Card Transactions
+Shift Time Remaining
+
+Total Cash in Drawer
